@@ -1,3 +1,12 @@
 body {
   background: #EDEAE1;
 }
+h1 {
+  font-family: helvetica;
+}
+h2 {
+  font-family: georgia;
+}
+p {
+  color: #001a66;
+}
